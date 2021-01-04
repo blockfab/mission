@@ -22,7 +22,7 @@ Many different blockchains exist. A dapp may depend on several blockchains. Bloc
 
 ## MVP Product: decon.sh
 
-Decon stands for "Decentralised Connectivity" and .sh is the top-level domain of Saint Helena, Ascension and Tristan da Cunha. The file extension .sh is used linux bash scripts as well e.g. start.sh.
+Decon stands for "Decentralised Connectivity" and .sh is the top-level domain of Saint Helena, Ascension and Tristan da Cunha. The file extension .sh is used for linux shell scripts e.g. start.sh.
 
 https://en.wikipedia.org/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha.
 
