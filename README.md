@@ -30,11 +30,6 @@ https://en.wikipedia.org/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha.
 
 *"Give developers access to a best-priced blockchain node infrastrucure and be the toiletpaper of blockchain infrastructure"*
 
-## Competition
-
-- https://www.purestake.com/
-- https://chainstack.com/
-
 Best
 
 Patrick
