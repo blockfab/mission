@@ -6,7 +6,7 @@ It is all for my recovery. I handover my will to the power of god and let him sh
 
 ## Company Mission
 
-**Enable developers to develop, operate and monetise decentralised applications.**
+*"Enable developers to develop, operate and monetise decentralised applications."*
 
 ## Company Name
 
@@ -28,7 +28,7 @@ https://en.wikipedia.org/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha.
 
 ## Product Vision for decode.sh
 
-**Give developers access to a best-priced blockchain node infrastrucure and be the "Toiletpaper of blockchain infrastructure"**
+*"Give developers access to a best-priced blockchain node infrastrucure and be the toiletpaper of blockchain infrastructure"*
 
 ## Competition
 
