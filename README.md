@@ -28,7 +28,7 @@ https://en.wikipedia.org/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha.
 
 ## Product Vision for decode.sh
 
-*"Give developers access to a best-priced blockchain node infrastrucure and be the toiletpaper of blockchain infrastructure"*
+*"Give developers access to a best-priced blockchain node infrastrucure, be the toilet paper of Web 3.0"*
 
 Best
 
