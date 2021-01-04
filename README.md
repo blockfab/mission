@@ -1,6 +1,6 @@
 # Personal Mission
 
-It is all for my recovery. I handover my will to the power of god and let him guide me how to live. 
+It is all for my recovery. I handover my will to the power of god and let him show me how to live. 
 
 ## Company Mission for BlockFabrik
 
