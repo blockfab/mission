@@ -8,7 +8,7 @@ To enable developers to develop, operate and monetise decentralised applications
 
 ## Product Vision for decode.sh
 
-To give developers access to a best-priced blockchain node infrastrucure and become the "Toiletpaper of blockchain infrastructure"
+To give developers access to a best-priced blockchain node infrastrucure and be the "Toiletpaper of blockchain infrastructure"
 
 ## Company Name
 
