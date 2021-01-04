@@ -2,7 +2,7 @@
 
 ## Personal Mission
 
-"It is my recovery. I hand over my will and my life to my higher power and let it show me how to live." 
+*"It is my recovery. I hand over my will and my life to my higher power and let it show me how to live."* 
 
 ## Company Mission
 
