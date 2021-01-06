@@ -18,7 +18,7 @@ Decentralised applications, short dapps, are part of Web 3.0 where smart contrac
 
 ## Problem statement
 
-Many different blockchains exist. A dapp may depend on several blockchains. Blockchains still run on servers, so-called block chain nodes. Operating such nodes is a time and cost intesive endevour. Developers rather want to focus on solving problems for end-users than setting up blockchain nodes. Blockchain infrastructure is a commodity.
+Many different blockchains exist. A dapp may depend on several blockchains. Blockchains still run on servers, so-called block chain nodes. Operating such nodes is a time and cost intesive endevour. Developers rather want to focus on solving problems for end-users than setting up blockchain nodes. Blockchain infrastructure is considered a commodity.
 
 ## MVP Product: decon.sh
 
